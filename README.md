@@ -48,4 +48,4 @@ Backup na nuvem
 
 Versão web com React Native Web
 
-"Projeto desenvolvido nas horas vagas após o trabalho, com muito café e persistência!" ☕💻
+"Projeto feito nas horas vagas após o trabalho, com muito café e persistência!" ☕💻
